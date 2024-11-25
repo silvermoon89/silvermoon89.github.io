@@ -4,6 +4,35 @@
   
   
   <entry>
+    <title>racknerd</title>
+    <link href="/2024/11/25/racknerd/"/>
+    <url>/2024/11/25/racknerd/</url>
+    
+    <content type="html"><![CDATA[<h1 id="racknerd-使用体验"><a href="#racknerd-使用体验" class="headerlink" title="racknerd 使用体验"></a>racknerd 使用体验</h1><p>前些天突然想弄个 VPS，就找了一下，刚好看见 racknerd 有万圣节活动，一年 10 刀，每月 3T 流量，1G 内存，20G SSD，买！！！</p><p>第一次使用 VPS 所以买个便宜的玩玩，经过测试买的圣何塞的服务器，跑了个 hysteria2 节点，经过这些天的实际使用体验整体感觉还行，偶尔高峰期会网速变慢，但大多时候很流畅，测速基本跑满，鉴于我自己租房的垃圾宽带只有不到 3M&#x2F;s，我又用流量跑了一遍，能到 8-9M&#x2F;s</p><p>总体感觉，一分钱一分货，这价格还要什么自行车，刷刷网页，看看视频，够用。</p><p>其实我个人是不太用得上 VPS，纯粹是就是想玩玩，不过买了也不能浪费，跑了几个 DEPIN 项目挂着，希望能空投回个血。。。</p><p>PS：为了挂项目，已经买了 11 刀的住宅 IP 流量了。。。等待后期如果能拿到空投，再来写后续</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>VPS</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>VPS</tag>
+      
+      <tag>racknerd</tag>
+      
+      <tag>RackNerd</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>站到用时方恨少</title>
     <link href="/2024/09/30/website-records/"/>
     <url>/2024/09/30/website-records/</url>
